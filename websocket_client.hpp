@@ -24,7 +24,7 @@ private:
     int port_;
     std::string refresh_token_ = "";
     const std::string kUserLogin = "core";
-    const std::string kUserPassword = "sanezoo";
+    const std::string kUserPassword = "insane";
 
     bool login(LOGIN_TYPE);
 
